@@ -1,6 +1,6 @@
 export default {
   sauce: function(){
-    alert('your crap website is now been awesome sauced');
-    console.log('your crap website website is now awesome');
+    alert('your meh website is now been awesome sauced');
+    console.log('your meh website website is now awesome');
   }
 }
