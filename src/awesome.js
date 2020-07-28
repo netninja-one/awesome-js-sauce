@@ -2,5 +2,8 @@ export default {
   sauce: function(){
     alert('your crap website is now been awesome sauced');
     console.log('your crap website website is now awesome');
+    console.log("bende's message");
+    console.log("git rebase try commit 1");
+    console.log("git rebase try commit 2");
   }
 }
