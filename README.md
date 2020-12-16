@@ -2,4 +2,4 @@
 
 Awesome Readme File
 
-An awesome framework for making crap websites
+An awesome framework for making websites
