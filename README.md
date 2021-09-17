@@ -1,4 +1,4 @@
-# learning how to contribute and fork the repos 
+# I am learning how to contribute and fork the repos 
 >make fork 
 
 > contribute to some github repo 
