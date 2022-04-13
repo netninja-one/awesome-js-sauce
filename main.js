@@ -2,4 +2,4 @@
 import Awesome from './src/awesome.js'
 Awesome.sauce();
 console.log("Your web is now awesone");
-
+alert("Second trial!")
