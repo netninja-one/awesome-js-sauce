@@ -7,6 +7,3 @@ export default {
 
 
 console.log();
-
-changes
-
