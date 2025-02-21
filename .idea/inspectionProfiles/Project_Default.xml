@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="53">
+            <item index="0" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="1" class="java.lang.String" itemvalue="pipreqs" />
+            <item index="2" class="java.lang.String" itemvalue="Flask" />
+            <item index="3" class="java.lang.String" itemvalue="referencing" />
+            <item index="4" class="java.lang.String" itemvalue="traitlets" />
+            <item index="5" class="java.lang.String" itemvalue="decorator" />
+            <item index="6" class="java.lang.String" itemvalue="matplotlib-inline" />
+            <item index="7" class="java.lang.String" itemvalue="yarg" />
+            <item index="8" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="9" class="java.lang.String" itemvalue="pandocfilters" />
+            <item index="10" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="11" class="java.lang.String" itemvalue="nbclient" />
+            <item index="12" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="13" class="java.lang.String" itemvalue="executing" />
+            <item index="14" class="java.lang.String" itemvalue="jupyter_core" />
+            <item index="15" class="java.lang.String" itemvalue="tinycss2" />
+            <item index="16" class="java.lang.String" itemvalue="jsonschema-specifications" />
+            <item index="17" class="java.lang.String" itemvalue="rpds-py" />
+            <item index="18" class="java.lang.String" itemvalue="docopt" />
+            <item index="19" class="java.lang.String" itemvalue="Pygments" />
+            <item index="20" class="java.lang.String" itemvalue="stack-data" />
+            <item index="21" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="22" class="java.lang.String" itemvalue="bleach" />
+            <item index="23" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="24" class="java.lang.String" itemvalue="pywin32" />
+            <item index="25" class="java.lang.String" itemvalue="tornado" />
+            <item index="26" class="java.lang.String" itemvalue="prompt_toolkit" />
+            <item index="27" class="java.lang.String" itemvalue="jupyter_client" />
+            <item index="28" class="java.lang.String" itemvalue="parso" />
+            <item index="29" class="java.lang.String" itemvalue="pure_eval" />
+            <item index="30" class="java.lang.String" itemvalue="nbformat" />
+            <item index="31" class="java.lang.String" itemvalue="ipython" />
+            <item index="32" class="java.lang.String" itemvalue="packaging" />
+            <item index="33" class="java.lang.String" itemvalue="fastjsonschema" />
+            <item index="34" class="java.lang.String" itemvalue="nbconvert" />
+            <item index="35" class="java.lang.String" itemvalue="mistune" />
+            <item index="36" class="java.lang.String" itemvalue="jedi" />
+            <item index="37" class="java.lang.String" itemvalue="jupyterlab_pygments" />
+            <item index="38" class="java.lang.String" itemvalue="asttokens" />
+            <item index="39" class="java.lang.String" itemvalue="backcall" />
+            <item index="40" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="41" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="42" class="java.lang.String" itemvalue="webencodings" />
+            <item index="43" class="java.lang.String" itemvalue="Flask-WTF" />
+            <item index="44" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="45" class="java.lang.String" itemvalue="Flask-Bootstrap" />
+            <item index="46" class="java.lang.String" itemvalue="mypy" />
+            <item index="47" class="java.lang.String" itemvalue="django-stubs" />
+            <item index="48" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="49" class="java.lang.String" itemvalue="pillow" />
+            <item index="50" class="java.lang.String" itemvalue="tzdata" />
+            <item index="51" class="java.lang.String" itemvalue="types-PyYAML" />
+            <item index="52" class="java.lang.String" itemvalue="django-stubs-ext" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
