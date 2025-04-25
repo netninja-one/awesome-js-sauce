@@ -1,6 +1,6 @@
 export default {
   sauce: function(){
     alert('awesome learning');
-    console.log('learning git is fasinating');
+    console.log('learning git is fasinating as always');
   }
 }
